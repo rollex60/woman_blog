@@ -1,33 +1,25 @@
-<<<<<<< HEAD
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Woman blog. ##
 
-### What is this repository for? ###
+Music shop have images performers with titles the performers and titles albums. Price to albom with genre, carrier and relise date
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+![Alt text](https://bitbucket.org/django-4/woman_blog/raw/eae6ea87102ee386440cf58d7b6d21ab7469d8b0/media/woman_blog.png)
 
-### How do I get set up? ###
+## Actress. ##
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Music shop have images performers with titles the performers and titles albums. Price to albom with genre, carrier and relise date
 
-### Contribution guidelines ###
+![Alt text](https://bitbucket.org/django-4/woman_blog/raw/eae6ea87102ee386440cf58d7b6d21ab7469d8b0/media/woman_blog_actress.png)
 
-* Writing tests
-* Code review
-* Other guidelines
+## Add page. ##
 
-### Who do I talk to? ###
+![Alt text](https://bitbucket.org/django-4/woman_blog/raw/eae6ea87102ee386440cf58d7b6d21ab7469d8b0/media/woman_blog_addpage.png)
 
-* Repo owner or admin
-* Other community or team contact
-=======
-# woman_blog
->>>>>>> 86aea4d27493cd296faa859fc883a2a24e0a8e31
+## Page. ##
+
+![Alt text](https://bitbucket.org/django-4/woman_blog/raw/eae6ea87102ee386440cf58d7b6d21ab7469d8b0/media/woman_blog_page.png)
+
+## Admin. ##
+
+![Alt text](https://bitbucket.org/django-4/woman_blog/raw/eae6ea87102ee386440cf58d7b6d21ab7469d8b0/media/woman_blog_admin.png)
